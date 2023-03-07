@@ -179,6 +179,7 @@ header {
     transform: scale(1.1, 1.1);
     transition: 1s;
     box-shadow: 0 15px 30px rgb(27, 0, 59);
+    z-index: 1;
 }
 
 .travel-dude img {
